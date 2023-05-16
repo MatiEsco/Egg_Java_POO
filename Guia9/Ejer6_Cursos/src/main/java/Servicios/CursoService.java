@@ -21,11 +21,12 @@ import java.util.Scanner;
 
 public class CursoService {
     Scanner leer = new Scanner(System.in);
+    
     public String[] cargarAlumnos(){
         String[] vector = new String[5];
         System.out.println("Ingresar nombres de Alumnos");
         for(int i=0;i<5;i++){
-            System.out.print("Alumno ["+i+"]: ");
+            System.out.print("Alumno ["+(i+1)+"]: ");
             vector[i] = leer.nextLine();
         }
         

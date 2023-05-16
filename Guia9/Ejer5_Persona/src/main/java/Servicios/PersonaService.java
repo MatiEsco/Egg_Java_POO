@@ -18,6 +18,7 @@ import java.util.Date;
 import java.util.Scanner;
 public class PersonaService {
     Scanner leer = new Scanner(System.in);
+   
     public Persona crearPersona(){
         System.out.print("Nombre: ");
         String nombre = leer.nextLine();
