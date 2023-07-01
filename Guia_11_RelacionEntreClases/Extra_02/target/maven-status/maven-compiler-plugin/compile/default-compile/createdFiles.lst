@@ -1,0 +1,9 @@
+Servicios\CineService.class
+Entidades\Asiento.class
+Servicios\SalaService.class
+egg\extra_02\Extra_02.class
+Entidades\Espectador.class
+Entidades\Sala.class
+Entidades\Cine.class
+Entidades\Pelicula.class
+Servicios\EspectadorService.class
