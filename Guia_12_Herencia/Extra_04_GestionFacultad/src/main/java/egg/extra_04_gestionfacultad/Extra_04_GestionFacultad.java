@@ -7,7 +7,7 @@ package egg.extra_04_gestionfacultad;
 import Entidad.*;
 import java.util.ArrayList;
 import java.util.List;
-import javax.swing.JOptionPane;
+
 
 public class Extra_04_GestionFacultad {
 
